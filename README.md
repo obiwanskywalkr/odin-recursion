@@ -1,2 +1,2 @@
-# odin-recusion
-Fibonacci sequence and a merge sort algorithm in JavaScript
+# odin-recursion
+Fibonacci sequence and a merge sort algorithm to practice recursive functions in JavaScript.
